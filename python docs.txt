@@ -1,0 +1,68 @@
+Learn more about the History of Python: https://en.wikipedia.org/wiki/History_of_Python
+Python 2.7 vs 3.x: https://wiki.python.org/moin/Python2orPython3
+Python vs other Programming Languages: https://www.cleveroad.com/blog/python-vs-other-programming-languages
+
+
+-----------
+What's a Block?
+
+Of course a "Blockchain" consists of multiple "Blocks" - and a single Block simply can be considered a data storage/ container. You can store ANY data of your choice in a Block.
+
+Cryptocurrencies like Bitcoin are the most prominent use-case of the Blockchain technology but you can also store simple text in Blocks if you want to. Of course using a Blockchain makes most sense for data that should be secure and distributed across a broad network though. Data transparency and safety are key advantages of the Blockchain.
+
+Even when considering Cryptocurrencies, you don't actually store the coins in a Block but rather the transactions between users. A transaction then includes an amount of coins that should be transferred.
+
+In this course, the Blocks we start with only holds a number. So you can think of it as a transaction, though the sender and recipient is missing. But that's something which will be added once we had a look at more complex data structures than simple lists.
+
+Multiple Blocks in a list of Blocks then form the first simple Blockchain. No worries, it'll get more complex than that over the course of the remaining modules!
+
+
+
+
+Useful Resources & Links
+More on Python Basics: https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+More on Python Functions: https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+Python Floating Point Precision: https://docs.python.org/3/tutorial/floatingpoint.html
+PEBs: https://www.python.org/dev/peps/
+PEB 8 - Style Guide: https://www.python.org/dev/peps/pep-0008/
+String Escape Characters: http://python-reference.readthedocs.io/en/latest/docs/str/escapes.html
+Example Docstrings: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
+More on the Python Extension for Visual Studio Code: https://code.visualstudio.com/docs/languages/python
+
+
+
+More on Loops: https://docs.python.org/3/tutorial/controlflow.html#for-statements
+More on if Statements: https://docs.python.org/3/tutorial/controlflow.html#if-statements
+
+
+
+Reading and Writing Files: https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+More on the json Package: https://docs.python.org/3/library/json.html
+More on the pickle Package: https://docs.python.org/3/library/pickle.html
+
+
+Debugging Python in Visual Studio Code: https://code.visualstudio.com/docs/python/debugging
+More on try-except: https://docs.python.org/3/tutorial/errors.html
+
+
+
+
+More on Data Structures: https://docs.python.org/3/tutorial/datastructures.html
+
+More on format() : https://docs.python.org/3.4/library/functions.html#format
+More on the Python format()  Mini-Language: https://docs.python.org/3.4/library/string.html#formatspec
+Python Lambda Functions: https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions
+map() : https://docs.python.org/3/library/functions.html#map
+reduce() : https://docs.python.org/3/library/functools.html#functools.reduce
+
+
+Docstring Examples: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
+Python Special Methods: https://docs.python.org/3/reference/datamodel.html#basic-customization
+
+
+More on Python Modules: https://docs.python.org/3/tutorial/modules.html
+Using Anaconda: https://docs.anaconda.com/anaconda/
+PyCrypto Docs: https://pypi.org/project/pycrypto/
+
+
+

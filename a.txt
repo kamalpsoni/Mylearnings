@@ -1,0 +1,13 @@
+kubectl | head
+which kubctl
+alias k=kubectl
+kubectl get all
+set findstr /kube
+exec -it busybox /bin/sh
+
+kubectl scale deployment nginx-test-deployment --replicas=4
+
+kubectl set image deployment nginx-test-deployment nginx-test=nginx:1.9
+
+
+http://localhost:8080/  jenkins
